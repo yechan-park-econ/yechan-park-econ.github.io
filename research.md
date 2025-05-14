@@ -39,3 +39,9 @@ permalink: /research/
   [Link](https://openreview.net/pdf?id=FuN85V24J7V)
 
 ---
+
+## 🔧 Work in Progress
+
+* **Weighing Experimental vs. Observational Evidence:
+  Decision-Relevant Summaries of Treatment Effect Heterogeneity**
+  Isaiah Andrews, Raj Chetty, Yechan Park, and Bas Sanders.
