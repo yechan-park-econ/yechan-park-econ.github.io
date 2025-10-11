@@ -12,10 +12,9 @@ hide_title: true
 
   <!-- Left: Portrait and Contact -->
   <div style="flex: 0 0 200px; text-align: center; margin-right: 30px;">
-    <img src="/assets/img/Yechan Park_Portrait.jpg" alt="Yechan Park" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 10px;">
+    <img src="/assets/img/Yechan Park_Portrait.jpg" alt="Portrait" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 10px;">
     
     <div style="margin-top: 10px;">
-      <strong>Yechan Park</strong><br>
       Predoc at Opp Insights<br>
       <a href="mailto:yechanpark@fas.harvard.edu" style="display: block; margin-top: 5px;">Email</a>
       <a href="https://x.com/yechanparkjp" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
