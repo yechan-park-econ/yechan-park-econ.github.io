@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 hide_title: true
 ---
 
