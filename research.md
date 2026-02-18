@@ -6,11 +6,17 @@ permalink: /research/
 
 
 
-## 📝 Working Papers
+## Working Papers
+
+- **Decomposition of Spillover Effects Under Misspecification: Pseudo-true Estimands and a Local--Global Extension**  
+  Yechan Park and X. Yang, 2026.  
+  *arXiv preprint*.  
+  [Link](https://arxiv.org/abs/2602.12023)
+
 
 - **Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
   Yechan Park and Yuya Sasaki, 2024.  
-  *Revise and Resubmit*, *Journal of Econometrics*.  
+  *Accepted, Forthcoming*, *Journal of Econometrics*.  
   [Link](https://1drv.ms/f/s!AiBMsb9GEfTahokgU6CJCVnRVrP9nA?e=igGgSW)
 
 - **A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
@@ -24,7 +30,7 @@ permalink: /research/
 
 ---
 
-## 📚 Published Papers
+## Published Papers
 
 - **Asymptotic Expansion for Batched Bandits**  
   Yechan Park and Nakahiro Yoshida, 2024.  
@@ -38,7 +44,7 @@ permalink: /research/
 
 ---
 
-## 🔧 Work in Progress
+## Work in Progress
 
 - **Weighing Experimental vs. Observational Evidence:
   Decision-Relevant Summaries of Treatment Effect Heterogeneity**
