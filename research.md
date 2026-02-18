@@ -9,7 +9,7 @@ permalink: /research/
 ## Working Papers
 
 - **Decomposition of Spillover Effects Under Misspecification: Pseudo-true Estimands and a Local--Global Extension**  
-  Yechan Park and X. Yang, 2026.  
+  Yechan Park and Xiaodong Yang, 2026.  
   *arXiv preprint*.  
   [Link](https://arxiv.org/abs/2602.12023)
 
