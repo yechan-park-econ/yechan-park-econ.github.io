@@ -28,7 +28,7 @@ permalink: /research/
 - **The Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
   Yechan Park and Yuya Sasaki, 2026.  
   *Journal of Econometrics*.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0304407626000400)
+  [Link](https://doi.org/10.1016/j.jeconom.2026.106219)
   
 - **Asymptotic Expansion for Batched Bandits**  
   Yechan Park and Nakahiro Yoshida, 2024.  
