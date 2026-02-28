@@ -16,8 +16,8 @@ permalink: /research/
 
 - **Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
   Yechan Park and Yuya Sasaki, 2024.  
-  *Accepted, Forthcoming*, *Journal of Econometrics*.  
-  [Link](https://1drv.ms/f/s!AiBMsb9GEfTahokgU6CJCVnRVrP9nA?e=igGgSW)
+  *Journal of Econometrics*.  
+  [Link](https://www.sciencedirect.com/science/article/pii/S0304407626000400)
 
 - **A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
   Yechan Park and Yuya Sasaki, 2024.  
