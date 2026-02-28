@@ -13,12 +13,6 @@ permalink: /research/
   *arXiv preprint*.  
   [Link](https://arxiv.org/abs/2602.12023)
 
-
-- **Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
-  Yechan Park and Yuya Sasaki, 2024.  
-  *Journal of Econometrics*.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0304407626000400)
-
 - **A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
   Yechan Park and Yuya Sasaki, 2024.  
   *Under Review*.  
@@ -31,7 +25,11 @@ permalink: /research/
 ---
 
 ## Published Papers
-
+- **The Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
+  Yechan Park and Yuya Sasaki, 2026.  
+  *Journal of Econometrics*.  
+  [Link](https://www.sciencedirect.com/science/article/pii/S0304407626000400)
+  
 - **Asymptotic Expansion for Batched Bandits**  
   Yechan Park and Nakahiro Yoshida, 2024.  
   *Statistical Inference for Stochastic Processes* (Accepted).  
