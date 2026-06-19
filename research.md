@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-
+<style>.post-header { display: none; }</style>
 
 ## Working Papers
 
@@ -23,8 +23,6 @@ Yechan Park and Yuya Sasaki, 2024.
 *Under Review*.  
 [Link](https://arxiv.org/abs/2401.12050)
 
----
-
 ## Published Papers
 
 **The Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
@@ -42,14 +40,10 @@ Yechan Park, Nakahiro Yoshida, and Ruohan Zhan, 2022.
 *Neural Information Processing Systems 2022, Causal Machine Learning for Real-World Impact Workshop*.  
 [Link](https://openreview.net/pdf?id=FuN85V24J7V)
 
----
-
 ## Work in Progress
 
 **Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity**  
 Isaiah Andrews, Raj Chetty, Yechan Park, and Bas Sanders.
-
----
 
 ## Subsumed/Resting Papers
 
