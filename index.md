@@ -4,7 +4,7 @@ hide_title: true
 ---
 
 <!-- Main two-column layout -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 2rem;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
 
   <!-- Left: Portrait and Contact -->
   <div style="flex: 0 0 200px; text-align: left; margin-right: 30px;">
