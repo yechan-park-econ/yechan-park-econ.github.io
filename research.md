@@ -18,9 +18,10 @@ permalink: /research/
   *Under Review*.  
   [Link](https://arxiv.org/abs/2401.12050)
 
-- **Matching ≤ Hybrid ≤ Difference in Differences**  
-  Yechan Park and Yuya Sasaki, 2024.  
-  [Link](https://arxiv.org/pdf/2411.07952)
+- **Choosing A Headline Estimand from Matching, DID, and Hybrid Designs: A Minimax-Regret Approach**  
+  Yechan Park and Yuya Sasaki, 2026.  
+  *arXiv preprint*.  
+  [Link](https://arxiv.org/abs/2606.20435)
 
 ---
 
@@ -48,3 +49,11 @@ permalink: /research/
   Decision-Relevant Summaries of Treatment Effect Heterogeneity**
   
   Isaiah Andrews, Raj Chetty, Yechan Park, and Bas Sanders.
+
+---
+
+## Subsumed/Resting Papers
+
+- **Matching ≤ Hybrid ≤ Difference in Differences**  
+  Yechan Park and Yuya Sasaki, 2024.  
+  [Link](https://arxiv.org/pdf/2411.07952)
