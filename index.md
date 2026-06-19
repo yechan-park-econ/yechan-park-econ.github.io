@@ -10,13 +10,14 @@ hide_title: true
 <div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 2rem;">
 
   <!-- Left: Portrait and Contact -->
-  <div style="flex: 0 0 200px; text-align: center; margin-right: 30px;">
-    <img src="/assets/img/Yechan Park_Portrait.jpg" alt="Portrait of Yechan Park" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 10px;">
-    <div style="margin-top: 10px;">
-      <div style="font-weight: 700; font-size: 1.1rem; line-height: 1.2; margin-bottom: 4px;">Yechan Park</div>
-      PhD Candidate in Economics<br>
-      <a href="mailto:yechanpark@fas.harvard.edu" style="display: block; margin-top: 5px;">Email</a>
-      <a href="https://x.com/yechanparkjp" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
+  <div style="flex: 0 0 200px; text-align: left; margin-right: 30px;">
+    <img src="/assets/img/Yechan Park_Portrait.jpg" alt="Portrait of Yechan Park" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 12px;">
+    <div style="font-weight: 700; font-size: 1.2rem; line-height: 1.2; margin-bottom: 2px;">Yechan Park</div>
+    <div style="color: #555; margin-bottom: 12px;">PhD Candidate in Economics</div>
+    <div style="line-height: 2;">
+      <a href="mailto:yechanpark@fas.harvard.edu" style="display: block;"><i class="fa-solid fa-envelope fa-fw" style="margin-right: 8px;"></i>Email</a>
+      <a href="https://x.com/yechanparkjp" target="_blank" style="display: block;"><i class="fa-brands fa-x-twitter fa-fw" style="margin-right: 8px;"></i>X</a>
+      <a href="https://www.linkedin.com/in/yechan-park-9267311a6/" target="_blank" style="display: block;"><i class="fa-brands fa-linkedin fa-fw" style="margin-right: 8px;"></i>LinkedIn</a>
     </div>
   </div>
 
