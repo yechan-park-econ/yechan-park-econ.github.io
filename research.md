@@ -34,7 +34,7 @@ Yechan Park and Yuya Sasaki, 2026.
 
 **Asymptotic Expansion for Batched Bandits**  
 Yechan Park and Nakahiro Yoshida, 2024.  
-*Statistical Inference for Stochastic Processes* (Accepted).  
+*Statistical Inference for Stochastic Processes* (Conditionally Accepted).  
 [Link](https://arxiv.org/abs/2304.04170)
 
 **Beyond Central Limit Theorem for Higher Order Inference in Batched Bandits**  
