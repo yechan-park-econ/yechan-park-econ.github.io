@@ -8,6 +8,11 @@ permalink: /research/
 
 ## Working Papers
 
+**A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers**  
+Yechan Park, 2026.  
+*arXiv preprint*.  
+[Link](https://arxiv.org/abs/2607.08640)
+
 **Choosing A Headline Estimand from Matching, DID, and Hybrid Designs: A Minimax-Regret Approach**  
 Yechan Park and Yuya Sasaki, 2026.  
 *arXiv preprint*.  
