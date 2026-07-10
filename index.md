@@ -37,7 +37,7 @@ hide_title: true
   <!-- Right: Main Introduction -->
   <div style="flex: 1;">
     <p>
-      Welcome! I am a first-year PhD student in Economics at Harvard University, having previously worked for two years
+      Welcome! I am a second-year PhD student in Economics at Harvard University, having previously worked for two years
       as a predoctoral research fellow at <a href="https://opportunityinsights.org/">Opportunity Insights</a>. There, I
       worked with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include
       econometric theory, applied econometrics, and machine learning.
