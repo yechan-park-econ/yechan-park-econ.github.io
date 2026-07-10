@@ -4,7 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-<style>.post-header { display: none; }</style>
+<style>
+  .post-header { display: none; }
+  /* Widen content column so long paper titles fit on one line (minima default 740px). */
+  .wrapper { max-width: 920px; }
+</style>
 
 ## Working Papers
 

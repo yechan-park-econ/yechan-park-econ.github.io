@@ -3,6 +3,11 @@ layout: home
 hide_title: true
 ---
 
+<style>
+  /* Match the research page's wider content column (minima default 740px). */
+  .wrapper { max-width: 920px; }
+</style>
+
 <!-- Main two-column layout -->
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2rem;">
 
