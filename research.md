@@ -12,6 +12,11 @@ permalink: /research/
 
 ## Working Papers
 
+**A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
+Yechan Park and Yuya Sasaki, 2024.  
+*Revise and resubmit at Journal of Applied Econometrics*.  
+<a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
+
 **A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers**  
 Yechan Park, 2026.  
 *arXiv preprint*.  
@@ -26,11 +31,6 @@ Yechan Park and Yuya Sasaki, 2026.
 Yechan Park and Xiaodong Yang, 2026.  
 *arXiv preprint*.  
 <a href="https://arxiv.org/abs/2602.12023" target="_blank" rel="noopener">Link</a>
-
-**A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
-Yechan Park and Yuya Sasaki, 2024.  
-*Under Review*.  
-<a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
 
 ## Published Papers
 
