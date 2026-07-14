@@ -17,6 +17,11 @@ Yechan Park and Yuya Sasaki, 2024.
 *Revise and resubmit at Journal of Applied Econometrics*.  
 <a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
 
+**Dynamically Consistent Statistical Decisions**  
+Cheaheon Lim and Yechan Park, 2026.  
+*arXiv preprint*.  
+<a href="https://arxiv.org/abs/2607.10519" target="_blank" rel="noopener">Link</a>
+
 **A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers**  
 Yechan Park, 2026.  
 *arXiv preprint*.  
