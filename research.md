@@ -25,6 +25,7 @@ Cheaheon Lim and Yechan Park, 2026.
 **A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers**  
 Yechan Park, 2026.  
 *arXiv preprint*.  
+<span style="color: #666; font-size: 0.9em;">Presented at: EcoSta 2026, Harvard Econometrics Workshop 2026, NEEPC 2026</span>  
 <a href="https://arxiv.org/abs/2607.08640" target="_blank" rel="noopener">Link</a>
 
 **Choosing A Headline Estimand from Matching, DID, and Hybrid Designs: A Minimax-Regret Approach**  
@@ -35,6 +36,7 @@ Yechan Park and Yuya Sasaki, 2026.
 **Decomposition of Spillover Effects Under Misspecification: Pseudo-true Estimands and a Local--Global Extension**  
 Yechan Park and Xiaodong Yang, 2026.  
 *arXiv preprint*.  
+<span style="color: #666; font-size: 0.9em;">Presented at: NetSci 2026, Harvard Econometrics Workshop 2025</span>  
 <a href="https://arxiv.org/abs/2602.12023" target="_blank" rel="noopener">Link</a>
 
 ## Published Papers
