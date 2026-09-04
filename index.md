@@ -37,10 +37,12 @@ hide_title: true
   <!-- Right: Main Introduction -->
   <div style="flex: 1;">
     <p>
-      Welcome! I am a second-year PhD student in Economics at Harvard University, having previously worked for two years
-      as a predoctoral research fellow at <a href="https://opportunityinsights.org/">Opportunity Insights</a>. There, I
-      worked with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include
-      econometric theory, applied econometrics, and machine learning.
+      Welcome! I am a second-year PhD student in Economics at Harvard University, an Associate at
+      <a href="https://opportunityinsights.org/">Opportunity Insights</a>, and an inaugural fellow of the
+      <a href="https://openai.com/economic-research-exchange/">OpenAI Economic Research Exchange</a>. I previously worked
+      for two years as a predoctoral research fellow at Opportunity Insights, based at Harvard University, where I worked
+      with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include econometric
+      theory, applied econometrics, machine learning, and the economics of AI.
     </p>
     <p>
       I received my B.A. in Economics from the University of Tokyo in 2023, where I was advised by Professor Hidehiko Ichimura.
