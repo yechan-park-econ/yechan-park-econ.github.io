@@ -17,6 +17,11 @@ Yechan Park and Yuya Sasaki, 2024.
 *Revise and resubmit at Journal of Applied Econometrics*.  
 <a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
 
+**The Experimental Selection Correction Estimator: Using Experiments to Remove Biases in Observational Estimates**  
+Susan Athey, Raj Chetty, Guido Imbens, and Yechan Park, 2025.  
+*Revise and resubmit at Journal of Political Economy*.  
+<a href="https://www.nber.org/papers/w33817" target="_blank" rel="noopener">Link</a>
+
 **Dynamically Consistent Statistical Decisions**  
 Cheaheon Lim and Yechan Park, 2026.  
 *arXiv preprint*.  
