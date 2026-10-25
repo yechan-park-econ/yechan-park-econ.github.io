@@ -14,52 +14,43 @@ permalink: /research/
 
 **A Bracketing Relationship for Long-Term Policy Evaluation with Combined Experimental and Observational Data**  
 Yechan Park and Yuya Sasaki, 2024.  
-*Revise and resubmit at Journal of Applied Econometrics*.  
-<a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
+*Revise and resubmit at Journal of Applied Econometrics*. <a href="https://arxiv.org/abs/2401.12050" target="_blank" rel="noopener">Link</a>
 
 **The Experimental Selection Correction Estimator: Using Experiments to Remove Biases in Observational Estimates**  
 Susan Athey, Raj Chetty, Guido Imbens, and Yechan Park, 2025.  
-*Revise and resubmit at Journal of Political Economy*.  
-<a href="https://arxiv.org/abs/2006.09676" target="_blank" rel="noopener">Link to older version (new version coming soon!)</a>
+*Revise and resubmit at Journal of Political Economy*. <a href="https://arxiv.org/abs/2006.09676" target="_blank" rel="noopener">Link to older version (new version coming soon!)</a>
 
 **Dynamically Consistent Statistical Decisions**  
 Cheaheon Lim and Yechan Park, 2026.  
-*arXiv preprint*.  
-<a href="https://arxiv.org/abs/2607.10519" target="_blank" rel="noopener">Link</a>
+*arXiv preprint*. <a href="https://arxiv.org/abs/2607.10519" target="_blank" rel="noopener">Link</a>
 
 **A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers**  
 Yechan Park, 2026.  
-*arXiv preprint*.  
-<span style="color: #666; font-size: 0.9em;">Presented at: EcoSta 2026, Harvard Econometrics Workshop 2026, NEEPC 2026</span>  
-<a href="https://arxiv.org/abs/2607.08640" target="_blank" rel="noopener">Link</a>
+*arXiv preprint*. <a href="https://arxiv.org/abs/2607.08640" target="_blank" rel="noopener">Link</a>  
+<span style="color: #666; font-size: 0.9em;">Presented at: EcoSta 2026, Harvard Econometrics Workshop 2026, NEEPC 2026</span>
 
 **Choosing A Headline Estimand from Matching, DID, and Hybrid Designs: A Minimax-Regret Approach**  
 Yechan Park and Yuya Sasaki, 2026.  
-*arXiv preprint*.  
-<a href="https://arxiv.org/abs/2606.20435" target="_blank" rel="noopener">Link</a>
+*arXiv preprint*. <a href="https://arxiv.org/abs/2606.20435" target="_blank" rel="noopener">Link</a>
 
 **Decomposition of Spillover Effects Under Misspecification: Pseudo-true Estimands and a Local--Global Extension**  
 Yechan Park and Xiaodong Yang, 2026.  
-*arXiv preprint*.  
-<span style="color: #666; font-size: 0.9em;">Presented at: NetSci 2026, Harvard Econometrics Workshop 2025</span>  
-<a href="https://arxiv.org/abs/2602.12023" target="_blank" rel="noopener">Link</a>
+*arXiv preprint*. <a href="https://arxiv.org/abs/2602.12023" target="_blank" rel="noopener">Link</a>  
+<span style="color: #666; font-size: 0.9em;">Presented at: NetSci 2026, Harvard Econometrics Workshop 2025</span>
 
 ## Published Papers
 
 **The Informativeness of Combined Experimental and Observational Data under Dynamic Selection**  
 Yechan Park and Yuya Sasaki, 2026.  
-*Journal of Econometrics*.  
-<a href="https://doi.org/10.1016/j.jeconom.2026.106219" target="_blank" rel="noopener">Link</a>
+*Journal of Econometrics*. <a href="https://doi.org/10.1016/j.jeconom.2026.106219" target="_blank" rel="noopener">Link</a>
 
 **Asymptotic Expansion for Batched Bandits**  
 Yechan Park and Nakahiro Yoshida, 2024.  
-*Statistical Inference for Stochastic Processes* (Conditionally Accepted).  
-<a href="https://arxiv.org/abs/2304.04170" target="_blank" rel="noopener">Link</a>
+*Statistical Inference for Stochastic Processes* (Conditionally Accepted). <a href="https://arxiv.org/abs/2304.04170" target="_blank" rel="noopener">Link</a>
 
 **Beyond Central Limit Theorem for Higher Order Inference in Batched Bandits**  
 Yechan Park, Nakahiro Yoshida, and Ruohan Zhan, 2022.  
-*Neural Information Processing Systems 2022, Causal Machine Learning for Real-World Impact Workshop*.  
-<a href="https://openreview.net/pdf?id=FuN85V24J7V" target="_blank" rel="noopener">Link</a>
+*Neural Information Processing Systems 2022, Causal Machine Learning for Real-World Impact Workshop*. <a href="https://openreview.net/pdf?id=FuN85V24J7V" target="_blank" rel="noopener">Link</a>
 
 ## Work in Progress
 
@@ -69,5 +60,4 @@ Isaiah Andrews, Raj Chetty, Yechan Park, and Bas Sanders.
 ## Subsumed/Resting Papers
 
 **Matching ≤ Hybrid ≤ Difference in Differences**  
-Yechan Park and Yuya Sasaki, 2024.  
-<a href="https://arxiv.org/pdf/2411.07952" target="_blank" rel="noopener">Link</a>
+Yechan Park and Yuya Sasaki, 2024. <a href="https://arxiv.org/pdf/2411.07952" target="_blank" rel="noopener">Link</a>
