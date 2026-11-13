@@ -18,7 +18,7 @@ Yechan Park and Yuya Sasaki, 2024.
 
 **The Experimental Selection Correction Estimator: Using Experiments to Remove Biases in Observational Estimates**  
 Susan Athey, Raj Chetty, Guido Imbens, and Yechan Park, 2025.  
-*Revise and resubmit at Journal of Political Economy*. <a href="https://www.dropbox.com/scl/fi/esp3qzg0j409aka99ithl/esc_nov.pdf?rlkey=mbxnpfek36r85ok2v08sz1k7w&dl=0" target="_blank" rel="noopener">Link</a>
+*Revise and resubmit at Journal of Political Economy*. <a href="https://www.dropbox.com/scl/fi/esp3qzg0j409aka99ithl/esc_nov.pdf?rlkey=mbxnpfek36r85ok2v08sz1k7w&raw=1" target="_blank" rel="noopener">Link</a>
 
 **Dynamically Consistent Statistical Decisions**  
 Cheaheon Lim and Yechan Park, 2026.  
